@@ -1,16 +1,15 @@
-### Hi there 👋
+<br/>
 
-<!--
-**AdarshShukla2000/AdarshShukla2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' width='52'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='38'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://rudderstack.com/wp-content/uploads/2020/04/firebase-logo.png' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png' width='45'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='45'/>
+<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' width='52'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='38'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png' width='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png' width='45'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='45'/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Adarsh Shukla GitHub Stats"/>
+</details>
+[codechef]: https://www.codechef.com/users/cheeku_faang
+[codeforces]: https://codeforces.com/profile/adarsh_274
+[hackerrank]: https://www.hackerrank.com/adarshshukla2000
+[atcoder]: https://atcoder.jp/users/IgnitedSoul274
