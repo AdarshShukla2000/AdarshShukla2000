@@ -16,7 +16,10 @@
 
 - ⚡ Fun fact **I'm a polyglot programmer and have written code in over 6 different programming languages.**
 
+
+
 <h3 align="left">Connect with me:</h3>
+                <img align="right" alt=Coding" width="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif">
 <p align="left">
 <a href="https://twitter.com/adarsh__shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh__shukla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adarsh-shukla26800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-shukla26800" height="30" width="40" /></a>
