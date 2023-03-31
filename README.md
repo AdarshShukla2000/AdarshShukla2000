@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
-<h3 align="center">A passionate Competitive Programmer and Developer from India</h3>
+<h3 align="centre">A passionate Competitive Programmer and Developer from India</h3>
 <img align="right" alt=Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+                                                                                                           
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F76277&width=435&lines=Competitive+Programmer;MERN+Stack+Web+Developer;Pythonista;Rustacean;Algorithm+Expert)](https://git.io/typing-svg)
+                                                                                                           
+![gitartwork](gitartwork.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshshukla2000&label=Profile%20views&color=0e75b6&style=flat" alt="adarshshukla2000" /> </p>
 
