@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Competitive Programmer and Developer from India</h3>
 <img align="right" alt=Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F76277&width=435&lines=Competitive+Programmer;MERN+Stack+Web+Developer;Pythonista;Rustacean;Algorithm+Expert)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshshukla2000&label=Profile%20views&color=0e75b6&style=flat" alt="adarshshukla2000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adarsh__shukla" target="blank"><img src="https://img.shields.io/twitter/follow/adarsh__shukla?logo=twitter&style=for-the-badge" alt="adarsh__shukla" /></a> </p>
