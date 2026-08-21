@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
-<h3 align="center">Software Engineer @ OpenText · Distributed Systems & AI Infrastructure</h3>
+<h1 align="center">
+  <img src="https://media1.tenor.com/m/ztDMimXwhsAAAAAC/hello.gif" width="155" alt="Waving hello"/>
+  I am Adarsh Shukla
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=6F42C1&center=true&vCenter=true&width=700&lines=%24+build+--production;.%2Fbenchmark+--load=high;.%2Fchaos+--random-node;.%2Foptimize+--until=fast;System+stable.+Ship+it.%F0%9F%9A%80" alt="Terminal animation"/>
+</p>
+<p align="center">
+  <b>⚡ Build. Benchmark. Break. Improve.</b>
+</p>
+
+<h3 align="center">
+  Software Engineer @ OpenText
+</h3>
+
+<p align="center">
+  <b>Distributed Systems</b> · <b>High-Performance C++</b> · <b>AI Infrastructure</b> · <b>Cloud-Native Engineering</b>
+</p>
 <p align="center"><img alt=Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
                                                                                                            
 <p align="center">
@@ -26,6 +43,16 @@ I'm a Software Engineer with 3+ years of experience building systems at the inte
 
 Curiosity doesn't have an off switch, and the same instinct that makes a good engineer makes a good teammate. I try to be both. Off the clock, you'll find me on a badminton or table tennis court, chasing a good debate, or trying a new cuisine.
 
+<table align="center">
+<tr>
+<td align="center">🧩<br><b>Understand</b><br><sub>the primitives</sub></td>
+<td align="center">📐<br><b>Design</b><br><sub>for failure</sub></td>
+<td align="center">📊<br><b>Measure</b><br><sub>before optimizing</sub></td>
+<td align="center">🔥<br><b>Break</b><br><sub>under load</sub></td>
+<td align="center">🚀<br><b>Improve</b><br><sub>continuously</sub></td>
+</tr>
+</table>
+
 <p align="center">
   <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif">
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif">
@@ -34,6 +61,21 @@ Curiosity doesn't have an off switch, and the same instinct that makes a good en
 <br clear="both">
 
 <br>
+
+<h3 align="center">⚡ Currently Building</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Building-Self--Healing_Distributed_Systems-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Exploring-RAG_%26_AI_Infrastructure-ff6f61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_Engineering-HNSW_%26_Vector_Search-007acc?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>
+    Building systems from first principles — understanding the primitives,
+    measuring the bottlenecks, and pushing the limits.
+  </i>
+</p>
 
 ## 💼 Experience
 
@@ -112,12 +154,100 @@ A production-grade distributed semantic search engine serving approximate neares
 
 `C++` `Java` `Spring Boot` `Node.js` `gRPC` `Apache Kafka` `Redis` `HNSW` `ANN Search` `Vector Search` `Machine Learning` `Transformer Models` `Microservices` `Distributed Systems` `Protocol Buffers` `Concurrency` `Performance Engineering` `Cache Optimization`
 
+<h2 align="center">📊 Engineering at a Glance</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### ⚡ 17.3K+
+
+**ops/sec**
+
+Self-Healing Cache
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀 15.3K+
+
+**vectors/sec**
+
+Vector Search Engine
+
+</td>
+
+<td align="center" width="200">
+
+### 🎯 0.677ms
+
+**avg query latency**
+
+KNN Search
+
+</td>
+
+<td align="center" width="200">
+
+### 🧩 5 Nodes
+
+**chaos-tested**
+
+Distributed Cache
+
+</td>
+</tr>
+</table>
+
 <p align="center">
   <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif">
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif">
 </p>
 
 <br clear="both">
+
+<br>
+
+<h2 align="center">🧪 System Design Playground</h2>
+
+<p align="center">
+  <i>Systems I build to understand distributed systems from first principles.</i>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="280">
+
+### 🧠 HNSW Engine
+
+Custom C++ vector index
+
+`Graph Search` · `ANN` · `SIMD`
+
+</td>
+
+<td align="center" width="280">
+
+### 🔥 Self-Healing Cache
+
+Distributed cache from scratch
+
+`SWIM` · `Gossip` · `Replication`
+
+</td>
+
+<td align="center" width="280">
+
+### ☁️ Cloud Infrastructure
+
+Production cloud systems
+
+`Kubernetes` · `AWS` · `GCP`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -220,9 +350,17 @@ A production-grade distributed semantic search engine serving approximate neares
 
 <br clear="both">
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">🌐 Let's Connect</h2>
 
-<table>
+<p align="center">
+  <i>Interested in distributed systems, AI infrastructure, or building something interesting?</i>
+</p>
+
+<p align="center">
+  <b>Let's talk systems, performance, and everything that breaks under load. ⚡</b>
+</p>
+
+<table align="center">
 <tr>
 <td align="center">
     <a href="https://twitter.com/ADARSH___SHUKLA" target="_blank">
