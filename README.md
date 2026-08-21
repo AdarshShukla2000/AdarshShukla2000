@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
-<h3 align="centre">A passionate Competitive Programmer and Developer from India</h3>
+<h3 align="centre">Software Engineer @ OpenText · Distributed Systems & AI Infrastructure</h3>
 <img align="right" alt=Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
                                                                                                            
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F76277&width=435&lines=Competitive+Programmer;MERN+Stack+Web+Developer;Pythonista;Rustacean;Algorithm+Expert)](https://git.io/typing-svg)
-                                                                                                           
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76277&width=650&lines=Building+AI-powered+RAG+search+at+OpenText;Go+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+Distributed+Systems;FedRAMP-compliant+enterprise+infrastructure;Self-healing+caches+%2B+HNSW+vector+search+Engine)](https://git.io/typing-svg)
+ 
 ![gitartwork](gitartwork.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshshukla2000&label=Profile%20views&color=0e75b6&style=flat" alt="adarshshukla2000" /> </p>
