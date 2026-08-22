@@ -363,10 +363,10 @@ Production cloud systems
 <table align="center">
 <tr>
 <td align="center">
-    <a href="https://twitter.com/ADARSH___SHUKLA" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <a href="https://x.com/ADARSH___SHUKLA" target="_blank">
+        <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="30" width="30" />
         <br />
-        <sub><b>Twitter</b></sub>
+        <sub><b>X</b></sub>
     </a>
 </td>
 
